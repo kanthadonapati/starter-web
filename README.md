@@ -18,3 +18,7 @@ Contribute your works here
 ## Deployment 
 
 This is the deployment section
+
+## Conflicts section 
+
+we are conflicting here in Master
