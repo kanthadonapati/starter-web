@@ -9,6 +9,12 @@ Sample website with plenty of files for demosi
 
 ## Introduction
 
+This is the section desribes brief Introduction to the project
+
 ## Contribute
 
+Contribute your works here
+
 ## Deployment 
+
+This is the deployment section
